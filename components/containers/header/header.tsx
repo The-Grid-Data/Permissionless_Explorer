@@ -22,7 +22,7 @@ const claimProfileButton = (
   <Link
     target="_blank"
     rel="noopener noreferrer"
-    href="https://data.thegrid.id/form/d72408d4-d3f2-45ee-9248-70e86bfba351" 
+    href="https://data.thegrid.id/form/d72408d4-d3f2-45ee-9248-70e86bfba351"
   >
     <Button variant="outline" className="w-full md:w-fit">
       Claim your profile
@@ -50,8 +50,8 @@ export const Header = () => {
         <Link href="/" className="flex items-center">
           <Image
             alt="The grid logo"
-            src="/thegrid-logo.svg"
-            width={160}
+            src="/permissionless2.png"
+            width={250}
             height={1200}
           />
         </Link>
