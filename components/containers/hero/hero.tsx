@@ -8,8 +8,8 @@ export const Hero = () => {
       </Badge>
 
       <h1 className="scroll-m-20 text-balance text-center text-4xl font-extrabold leading-tight tracking-tight lg:text-5xl lg:leading-[1.1]">
-        Explorer the Solana related Projects / Investors that are going to
-        Permissionless 3
+        Explore the Solana-related Projects / Investors headed to Permissionless
+        III
       </h1>
       <p className="max-w-xl text-center text-lg font-light text-foreground">
         This data is pulled from The Grid and is freely available via this page
