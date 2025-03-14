@@ -8,7 +8,7 @@ export const Hero = () => {
       </Badge>
 
       <h1 className="scroll-m-20 text-balance text-center text-4xl font-extrabold leading-tight tracking-tight lg:text-5xl lg:leading-[1.1]">
-        THIS NO LONGER WORKS - Go to <a href="https://solana.thegrid.id/?tags=18" className="text-primary hover:underline"> to view the data
+        THIS NO LONGER WORKS - Go to <a href="https://solana.thegrid.id/?tags=18">our Solana Explorer</a> to view the data
       </h1>
       <p className="max-w-xl text-center text-lg font-light text-foreground">
         This data is pulled from The Grid and is freely available via this page
